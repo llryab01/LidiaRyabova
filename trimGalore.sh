@@ -15,6 +15,3 @@ trim_galore --paired \
 # t2_1.fq and t2_2.fq: Replace these with the actual names of your input files.
 
 # Note: FastQC results showed very good quality.
-
-# Additional comments:
-# You may want to add any additional information or context specific to your dataset.
