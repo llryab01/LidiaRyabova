@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 # Genome indexing command using STAR
 STAR --runThreadN 6 \
