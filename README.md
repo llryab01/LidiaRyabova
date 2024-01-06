@@ -14,9 +14,9 @@ PitPat_analysis
 
 |-- data
 |   |-- featureCountsP_file
-|   |-- GenomeIndex
-|   |-- StarAlignedSamples
-|   |-- trimmedSamples
+|   |-- GenomeIndex this folder SENT VIA GOOGLE DRIVE
+|   |-- StarAlignedSamples this folder SENT VIA GOOGLE DRIVE
+|   |-- trimmedSamples this folder SENT VIA GOOGLE DRIVE
 
 |-- Programms
 |   |-- Program2Submit 
