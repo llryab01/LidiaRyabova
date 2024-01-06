@@ -33,6 +33,8 @@ PitPat_analysis
 |   |-- GenomeAnnotation
 |   |-- PrimaryAssembley
 
+|-- |-- GenomeIndex this folder SENT VIA GOOGLE DRIVE
+
 
 
 
